@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2520833333333333" />
+        <entry key="app/src/main/res/drawable/gray_lamp_image.xml" value="0.128125" />
+        <entry key="app/src/main/res/drawable/green_lamp_image.xml" value="0.2520833333333333" />
+        <entry key="app/src/main/res/drawable/imgGrayLamp.xml" value="0.128125" />
+        <entry key="app/src/main/res/drawable/red_lamp_image.xml" value="0.2520833333333333" />
+        <entry key="app/src/main/res/drawable/ticket_image.xml" value="0.128125" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
       </map>
     </option>

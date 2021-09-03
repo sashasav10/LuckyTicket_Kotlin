@@ -1,8 +1,11 @@
 <resources>
     <string name="app_name">LuckyTicket_Kotlin</string>
     <string name="errorMessage">Please enter 6 digits number</string>
-    <string name="hint_editText">Enter a ticket number</string>
-    <string name="checkButton_text">Check a ticket</string>
-    <string name="TicketImageDescription">Ticket</string>
-    <string name="LampImageDescription">Lamp</string>
+    <string name="hintForETCheckNumber">Enter a ticket number</string>
+    <string name="contentButtonCheck">Check a ticket</string>
+    <string name="imgDescriptionTicket">Ticket</string>
+    <string name="imgDescriptionLamp">Lamp</string>
+    <string name="toastMessageLucky">Congratulations! Your ticket is lucky</string>
+    <string name="toastMessageNotLucky">Unfortunately, this ticket is not lucky</string>
+    <integer name="MAX_NUMBER_OF_DIGITS">6</integer>
 </resources>
