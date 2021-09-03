@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
     private fun checkIsLucky() {
         val lampImage = findViewById<ImageView>(R.id.imgLamp)
         val inputNumber = findViewById<EditText>(R.id.etTicketNumber).text
-        if (inputNumber.length < 6) {
+        if (inputNumber.length < resources.getInteger(R.integer.MAX_NUMBER_OF_DIGITS)) {
             findViewById<EditText>(R.id.etTicketNumber).error = getString(R.string.errorMessage)
 
         } else {
